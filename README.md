@@ -25,6 +25,15 @@
 > 1.搭配Cloudflare APP使用
 >
 > 2.查看server.py有关api
-
-​		
+>
+---
+> ### 联系方式
+>
+> QQ : 3319066174
+>
+> Email : cxbsoft@bsot.cn
+>
+> Github : https://github.com/cxb-soft
+>
+> Blog : https://blog.bsot.cn
 
