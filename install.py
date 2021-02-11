@@ -22,8 +22,8 @@ if(port != ""):
     config['port'] = port
 else:
     config['port'] = 65500
-config['cloudflare_username'] = cloudflare_username
-config['cloudflare_password'] = cloudflare_password
+config['cloudflare']['username'] = cloudflare_username
+config['cloudflare']['password'] = cloudflare_password
 config['password'] = connect_password
 
 f = open("config.json","w")
